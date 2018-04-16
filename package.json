@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "author": "",
@@ -11,6 +11,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "colors": "^1.2.1"
+    "colors": "^1.2.1",
+    "stat-mode": "^0.2.2"
   }
 }
