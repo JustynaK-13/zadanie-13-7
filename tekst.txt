@@ -1,5 +1,3 @@
-var fs = require('fs');
-
-fs.readFile('./tekst.txt', function(err, data) {
-    console.log(data);
-});
+A tak wyglądają po zapisie!
+A tak wyglądają po zapisie!
+A tak wyglądają po zapisie!
